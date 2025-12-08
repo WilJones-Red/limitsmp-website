@@ -345,6 +345,22 @@ html {
     font-size: 0.9rem;
 }
 
+.quote-box {
+    background: rgba(76, 175, 80, 0.1);
+    border-left: 4px solid #4CAF50;
+    padding: 1.5rem;
+    margin-top: 1rem;
+    border-radius: 5px;
+}
+
+.quote-text {
+    font-style: italic;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #f0f0f0;
+    text-align: center;
+}
+
 /* Footer */
 footer {
     background: rgba(0, 0, 0, 0.9);
